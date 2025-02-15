@@ -114,5 +114,5 @@ st.markdown("""
     Cette application utilise un modèle de **Random Forest** entraîné sur le dataset **Heart Disease UCI**.
     - **Objectif** : Prédire la présence de maladies cardiaques en fonction des informations du patient.
     - **Métriques du modèle** : Accuracy, Precision, Recall, F1-Score, AUC-ROC.
-    - **Auteur** : Luc Parfait
+    - **Auteur** : AFAVI Noel et OUEDRAOGO Bienvenu
     """)
